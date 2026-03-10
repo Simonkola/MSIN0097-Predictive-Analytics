@@ -70,8 +70,8 @@ Expected runtime: ~5–10 minutes (dominated by `GridSearchCV` in Steps 5.2a and
 | 4 | Model comparison | LR, RF, XGBoost, MLP (baseline + stabilized) — validation AUC and profit |
 | 5 | Fine-tuning & evaluation | LR and XGBoost CV tuning, profit-maximising threshold, calibration, test-set evaluation, sensitivity analysis |
 | 6 | Final solution | SHAP global importance, employment feature deep-dive, model card |
-| Appendix (optional) | EXT_SOURCE ablation | Quantifies signal loss if bureau scores are removed |
-| Appendix (optional) | Segmented threshold | Compares global vs segment-specific vs oracle threshold policies |
+| Appendix | EXT_SOURCE ablation | Quantifies signal loss if bureau scores are removed |
+| Appendix | Segmented threshold | Compares global vs segment-specific vs oracle threshold policies |
 
 ---
 
