@@ -1,7 +1,7 @@
 # Profit-Aware Credit Risk Model
 ## MSIN0097 Predictive Analytics — Individual Coursework
 
-End-to-end credit default classification using the Home Credit Default Risk dataset, with a profit-maximising decision threshold under an asymmetric cost matrix (FN:FP = 5:1). Claude Code has been asked to draft each project step, and each output has then been carefully reviewed. Every contribution was accepted, corrected, or improved before being used.
+End-to-end credit default classification using the Home Credit Default Risk dataset, with a profit-maximising decision threshold under an asymmetric cost matrix (FN:FP = 5:1). Claude Code was used to draft each project step, and each output was carefully reviewed. Every contribution was accepted, corrected, or improved before being used.
 
 ---
 
